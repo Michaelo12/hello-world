@@ -1,3 +1,2 @@
 # hello-world
-Hello-world repository by Michaelo12
-I like sleep
+by the way i like my family
